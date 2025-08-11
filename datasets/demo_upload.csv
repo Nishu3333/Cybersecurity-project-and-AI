@@ -1,0 +1,301 @@
+Amount,Hour,LateNightTxn,Country,Channel,RiskRating,TransactionType,Currency
+135761.64,23,1,Russia,Branch,High,Transfer,NPR
+952599.75,19,0,China,Online,High,Deposit,NPR
+613149.73,13,0,India,Online,Low,Transfer,NPR
+831624.81,0,1,China,Branch,High,Deposit,NPR
+771970.54,0,1,Russia,Online,High,Cash Withdrawal,NPR
+371240.57,18,0,China,ATM,High,Cash Withdrawal,NPR
+292221.54,4,1,Nepal,Online,High,Cash Withdrawal,NPR
+77073.27,3,1,Russia,Branch,High,Deposit,NPR
+40445.1,11,0,Pakistan,Branch,Medium,Cash Withdrawal,NPR
+165563.71,20,0,Nepal,Branch,Low,Cash Withdrawal,NPR
+549089.68,9,0,Nepal,ATM,High,Transfer,NPR
+140735.41,23,1,Nepal,Branch,High,Deposit,NPR
+676471.69,5,0,Nepal,ATM,Low,Deposit,NPR
+942684.87,16,0,USA,ATM,Low,Transfer,NPR
+789303.78,3,1,Pakistan,Online,Low,Deposit,NPR
+314343.56,15,0,Russia,Online,Low,Deposit,NPR
+402428.53,1,1,Pakistan,Branch,High,Cash Withdrawal,NPR
+153460.15,13,0,Pakistan,Branch,High,Transfer,NPR
+797628.77,5,0,Russia,Online,High,Cash Withdrawal,NPR
+843657.9,11,0,India,Branch,Low,Cash Withdrawal,NPR
+735011.55,10,0,Nepal,ATM,Low,Deposit,NPR
+218862.26,14,0,India,Online,High,Transfer,NPR
+312309.5,21,0,Pakistan,Branch,Low,Deposit,NPR
+138490.63,12,0,Pakistan,Online,Low,Transfer,NPR
+830952.9,18,0,China,Online,High,Cash Withdrawal,NPR
+741979.62,4,1,Russia,Online,High,Transfer,NPR
+253487.24,18,0,India,Branch,High,Cash Withdrawal,NPR
+202294.86,4,1,Nepal,Branch,Low,Transfer,NPR
+177470.9,16,0,Nepal,Branch,High,Deposit,NPR
+940812.86,4,1,USA,Branch,Medium,Deposit,NPR
+704292.08,22,0,Russia,Branch,Low,Transfer,NPR
+219876.4,17,0,Nepal,ATM,Low,Transfer,NPR
+843930.33,22,0,Russia,Online,Low,Transfer,NPR
+443961.15,0,1,China,Online,High,Transfer,NPR
+393909.29,15,0,USA,Branch,Low,Cash Withdrawal,NPR
+905062.16,18,0,Pakistan,Branch,High,Transfer,NPR
+692245.7,16,0,India,Online,High,Transfer,NPR
+315501.71,23,1,USA,Branch,Low,Transfer,NPR
+190088.08,9,0,China,Online,Low,Cash Withdrawal,NPR
+560414.81,19,0,China,ATM,High,Cash Withdrawal,NPR
+571710.01,15,0,Pakistan,ATM,High,Cash Withdrawal,NPR
+670766.98,5,0,China,Branch,Medium,Deposit,NPR
+126271.68,2,1,Nepal,Branch,High,Deposit,NPR
+453358.93,21,0,India,ATM,High,Transfer,NPR
+249041.18,22,0,India,Branch,High,Deposit,NPR
+299839.51,19,0,India,Online,Low,Transfer,NPR
+313623.25,0,1,Nepal,ATM,High,Deposit,NPR
+555435.73,4,1,India,Online,High,Cash Withdrawal,NPR
+123933.8,0,1,Nepal,Branch,High,Deposit,NPR
+404161.79,6,0,Pakistan,ATM,Medium,Transfer,NPR
+801161.35,10,0,India,Online,High,Cash Withdrawal,NPR
+511172.39,9,0,Russia,Branch,High,Transfer,NPR
+138733.93,9,0,USA,ATM,High,Cash Withdrawal,NPR
+191521.03,9,0,Pakistan,ATM,High,Deposit,NPR
+994672.3,8,0,USA,Online,Low,Cash Withdrawal,NPR
+966131.6,8,0,Pakistan,ATM,Low,Deposit,NPR
+460367.3,17,0,India,Online,Medium,Cash Withdrawal,NPR
+28588.08,9,0,Nepal,Branch,High,Deposit,NPR
+494219.77,6,0,India,Branch,High,Transfer,NPR
+532300.08,5,0,China,Online,Low,Cash Withdrawal,NPR
+43915.79,23,1,Nepal,Branch,Low,Cash Withdrawal,NPR
+642889.49,11,0,Nepal,Online,High,Deposit,NPR
+13632.87,4,1,USA,ATM,High,Deposit,NPR
+105970.41,6,0,Nepal,Online,Low,Cash Withdrawal,NPR
+357112.94,12,0,Nepal,ATM,High,Transfer,NPR
+293186.82,7,0,India,Branch,Low,Transfer,NPR
+167998.29,16,0,Russia,Branch,Low,Cash Withdrawal,NPR
+536861.19,5,0,USA,ATM,High,Transfer,NPR
+847761.21,13,0,Russia,Branch,High,Cash Withdrawal,NPR
+506459.06,23,1,Nepal,Branch,High,Cash Withdrawal,NPR
+237980.9,18,0,Pakistan,Online,High,Cash Withdrawal,NPR
+657500.31,1,1,Pakistan,Online,High,Transfer,NPR
+21609.25,13,0,Pakistan,ATM,Low,Cash Withdrawal,NPR
+991776.86,23,1,China,Online,Low,Transfer,NPR
+815877.94,8,0,Russia,ATM,Low,Cash Withdrawal,NPR
+635591.36,5,0,Nepal,Online,High,Transfer,NPR
+682260.75,19,0,India,Branch,Low,Cash Withdrawal,NPR
+112552.46,6,0,India,Online,Low,Cash Withdrawal,NPR
+735007.45,13,0,China,Online,High,Deposit,NPR
+830128.26,11,0,USA,ATM,High,Deposit,NPR
+64910.59,11,0,USA,Branch,Low,Transfer,NPR
+575418.68,18,0,Russia,ATM,Low,Cash Withdrawal,NPR
+607500.91,8,0,India,Branch,High,Deposit,NPR
+302391.14,10,0,Nepal,ATM,Low,Transfer,NPR
+162506.49,11,0,India,Online,High,Cash Withdrawal,NPR
+579081.34,23,1,Russia,ATM,High,Cash Withdrawal,NPR
+836857.64,20,0,India,Branch,Low,Cash Withdrawal,NPR
+416232.85,16,0,China,ATM,Low,Deposit,NPR
+422649.75,12,0,China,Branch,High,Deposit,NPR
+814595.4,1,1,Nepal,Online,High,Deposit,NPR
+104349.22,20,0,Pakistan,Online,High,Deposit,NPR
+11992.66,4,1,Nepal,Branch,High,Deposit,NPR
+2552.26,1,1,Pakistan,ATM,Low,Cash Withdrawal,NPR
+430910.09,9,0,Russia,Branch,Low,Cash Withdrawal,NPR
+465255.69,4,1,Nepal,Branch,Low,Transfer,NPR
+535387.89,15,0,Nepal,ATM,Low,Cash Withdrawal,NPR
+553013.05,8,0,China,ATM,Low,Deposit,NPR
+529291.48,1,1,India,ATM,High,Cash Withdrawal,NPR
+774760.11,4,1,Pakistan,ATM,Low,Cash Withdrawal,NPR
+978469.8,15,0,Russia,Branch,High,Transfer,NPR
+315635.17,16,0,USA,Online,High,Transfer,NPR
+996962.03,0,1,USA,Online,Medium,Cash Withdrawal,NPR
+998152.84,5,0,China,Branch,Low,Transfer,NPR
+651673.91,20,0,Nepal,Online,High,Transfer,NPR
+790746.53,12,0,Nepal,ATM,High,Cash Withdrawal,NPR
+214480.07,2,1,China,ATM,Low,Transfer,NPR
+279615.79,1,1,USA,Online,High,Deposit,NPR
+485699.5,23,1,India,Online,High,Deposit,NPR
+970303.76,10,0,Russia,Online,High,Cash Withdrawal,NPR
+418683.03,4,1,India,ATM,High,Transfer,NPR
+386227.07,4,1,Russia,Online,Low,Transfer,NPR
+168428.0,16,0,China,ATM,High,Deposit,NPR
+547295.68,8,0,Russia,ATM,High,Cash Withdrawal,NPR
+804218.24,14,0,India,Online,High,Cash Withdrawal,NPR
+537539.79,10,0,Nepal,ATM,High,Transfer,NPR
+568520.57,4,1,Nepal,ATM,High,Transfer,NPR
+14397.04,11,0,USA,Branch,High,Deposit,NPR
+214671.05,18,0,Russia,ATM,High,Transfer,NPR
+395759.1,11,0,USA,ATM,High,Deposit,NPR
+201900.55,23,1,Pakistan,ATM,Low,Deposit,NPR
+219444.67,23,1,India,ATM,Low,Cash Withdrawal,NPR
+800107.92,8,0,Nepal,Branch,Medium,Cash Withdrawal,NPR
+939924.63,12,0,Pakistan,ATM,High,Cash Withdrawal,NPR
+183669.56,14,0,Nepal,Branch,Low,Transfer,NPR
+658213.71,13,0,Nepal,ATM,High,Cash Withdrawal,NPR
+969300.21,14,0,China,ATM,High,Transfer,NPR
+305356.08,9,0,Nepal,Branch,Low,Cash Withdrawal,NPR
+330529.06,6,0,India,Branch,High,Transfer,NPR
+656119.09,11,0,Russia,Branch,Medium,Deposit,NPR
+46584.78,11,0,Nepal,Online,Low,Deposit,NPR
+582117.68,21,0,Nepal,ATM,High,Transfer,NPR
+407745.17,3,1,Nepal,Branch,High,Transfer,NPR
+711933.01,13,0,USA,Branch,High,Cash Withdrawal,NPR
+486718.87,0,1,USA,Online,High,Cash Withdrawal,NPR
+416023.62,2,1,China,Online,High,Deposit,NPR
+238391.74,15,0,China,Branch,Low,Cash Withdrawal,NPR
+461716.97,14,0,Russia,Branch,High,Transfer,NPR
+988155.09,19,0,Nepal,ATM,High,Cash Withdrawal,NPR
+507703.85,5,0,India,Online,Medium,Transfer,NPR
+657554.34,11,0,Nepal,Online,High,Deposit,NPR
+631903.8,21,0,Russia,Online,High,Transfer,NPR
+466632.43,7,0,Nepal,Online,High,Transfer,NPR
+97549.28,9,0,Pakistan,ATM,Low,Deposit,NPR
+939732.72,22,0,India,Branch,High,Cash Withdrawal,NPR
+584899.77,19,0,Nepal,Branch,Low,Transfer,NPR
+849077.59,8,0,Nepal,Online,Low,Transfer,NPR
+492866.42,23,1,Nepal,Online,Medium,Transfer,NPR
+880073.21,6,0,Russia,ATM,Low,Deposit,NPR
+863763.66,15,0,Nepal,Branch,High,Transfer,NPR
+476593.08,19,0,India,Branch,Low,Cash Withdrawal,NPR
+219926.59,7,0,USA,ATM,Low,Cash Withdrawal,NPR
+128627.88,0,1,Nepal,Online,High,Transfer,NPR
+413340.24,5,0,Pakistan,Online,High,Deposit,NPR
+478169.89,10,0,Russia,Online,High,Transfer,NPR
+578985.97,12,0,Russia,Online,High,Cash Withdrawal,NPR
+708031.41,6,0,China,Branch,Low,Transfer,NPR
+670557.43,5,0,USA,Online,High,Transfer,NPR
+900206.39,0,1,Russia,Branch,High,Cash Withdrawal,NPR
+712238.14,1,1,Nepal,Branch,High,Transfer,NPR
+777442.69,16,0,Pakistan,Online,High,Cash Withdrawal,NPR
+29865.54,9,0,Nepal,Online,Low,Deposit,NPR
+784557.95,18,0,Pakistan,Online,Low,Deposit,NPR
+430184.03,3,1,USA,Branch,High,Transfer,NPR
+403428.85,8,0,India,Branch,Low,Transfer,NPR
+235114.79,13,0,Russia,ATM,High,Transfer,NPR
+313896.03,20,0,Pakistan,ATM,High,Cash Withdrawal,NPR
+820324.18,8,0,USA,Online,Medium,Cash Withdrawal,NPR
+815743.46,14,0,Nepal,ATM,High,Transfer,NPR
+792854.11,5,0,India,ATM,High,Deposit,NPR
+374343.18,15,0,Nepal,Branch,Low,Deposit,NPR
+920565.45,23,1,USA,Branch,Low,Transfer,NPR
+821449.99,21,0,China,Branch,Medium,Deposit,NPR
+746918.58,6,0,China,Branch,High,Cash Withdrawal,NPR
+64042.19,0,1,Nepal,ATM,High,Deposit,NPR
+818348.65,16,0,China,ATM,High,Cash Withdrawal,NPR
+94953.48,2,1,Russia,Online,High,Transfer,NPR
+52919.73,3,1,Pakistan,ATM,Medium,Cash Withdrawal,NPR
+34353.98,11,0,Nepal,Online,Medium,Cash Withdrawal,NPR
+830290.89,20,0,Russia,ATM,High,Transfer,NPR
+860594.44,0,1,Nepal,ATM,High,Transfer,NPR
+46515.51,22,0,Nepal,Online,Low,Deposit,NPR
+205622.89,18,0,USA,ATM,High,Deposit,NPR
+118304.67,1,1,Pakistan,Online,High,Transfer,NPR
+774480.68,23,1,Russia,Online,High,Deposit,NPR
+59508.99,5,0,India,ATM,High,Cash Withdrawal,NPR
+318202.61,9,0,China,ATM,Low,Cash Withdrawal,NPR
+831718.92,15,0,Nepal,ATM,Low,Cash Withdrawal,NPR
+147255.92,10,0,Pakistan,Branch,Low,Transfer,NPR
+469282.98,20,0,Nepal,Branch,Low,Deposit,NPR
+99595.12,9,0,Nepal,Branch,Low,Deposit,NPR
+674478.78,6,0,Nepal,Branch,Low,Transfer,NPR
+928602.43,13,0,USA,Online,Low,Deposit,NPR
+390957.42,13,0,China,ATM,Low,Deposit,NPR
+564609.68,1,1,Nepal,Branch,High,Deposit,NPR
+335699.28,12,0,Russia,ATM,Low,Cash Withdrawal,NPR
+966273.01,20,0,Russia,Online,Low,Transfer,NPR
+218887.22,17,0,Nepal,Online,High,Deposit,NPR
+534388.99,16,0,Nepal,Online,High,Transfer,NPR
+755955.84,0,1,Nepal,ATM,Medium,Deposit,NPR
+138913.3,2,1,Russia,Branch,High,Deposit,NPR
+836818.41,3,1,Russia,ATM,High,Transfer,NPR
+732470.42,3,1,Russia,Online,High,Transfer,NPR
+579867.71,7,0,Pakistan,Online,Low,Deposit,NPR
+363583.27,7,0,USA,Online,High,Cash Withdrawal,NPR
+884752.43,11,0,India,Online,High,Deposit,NPR
+292343.64,16,0,Russia,Branch,High,Transfer,NPR
+904570.73,10,0,Nepal,Online,Low,Deposit,NPR
+92126.05,11,0,Russia,ATM,High,Transfer,NPR
+519200.83,4,1,USA,ATM,Low,Transfer,NPR
+750460.33,20,0,Nepal,Online,High,Cash Withdrawal,NPR
+83893.93,6,0,USA,Online,High,Transfer,NPR
+70613.19,14,0,Nepal,Branch,Low,Cash Withdrawal,NPR
+665266.91,16,0,USA,Branch,High,Transfer,NPR
+665173.75,18,0,China,Online,High,Deposit,NPR
+10838.19,22,0,Russia,ATM,High,Deposit,NPR
+76801.42,18,0,Nepal,Online,Low,Transfer,NPR
+274029.38,2,1,Pakistan,ATM,Low,Deposit,NPR
+172245.09,3,1,Pakistan,Online,Low,Transfer,NPR
+546601.59,5,0,Nepal,ATM,High,Deposit,NPR
+566951.48,19,0,China,ATM,Medium,Transfer,NPR
+655945.93,22,0,India,Online,Low,Cash Withdrawal,NPR
+736778.12,22,0,Nepal,ATM,High,Deposit,NPR
+23301.72,20,0,Nepal,ATM,High,Deposit,NPR
+965087.03,15,0,Nepal,ATM,Low,Deposit,NPR
+283233.56,19,0,Nepal,ATM,High,Deposit,NPR
+152317.06,11,0,India,Online,Low,Cash Withdrawal,NPR
+478213.67,23,1,China,Online,Low,Transfer,NPR
+383896.91,12,0,Nepal,Online,Low,Cash Withdrawal,NPR
+515160.67,11,0,Pakistan,Online,High,Deposit,NPR
+292285.82,22,0,Nepal,Online,High,Transfer,NPR
+53920.28,4,1,India,ATM,High,Deposit,NPR
+84778.21,13,0,China,ATM,High,Deposit,NPR
+853132.15,2,1,India,Online,High,Deposit,NPR
+846398.59,22,0,Nepal,ATM,High,Cash Withdrawal,NPR
+649804.53,13,0,Pakistan,Online,Low,Transfer,NPR
+639632.05,11,0,India,Branch,High,Transfer,NPR
+450720.79,13,0,India,Online,High,Deposit,NPR
+202964.54,3,1,China,Branch,Medium,Cash Withdrawal,NPR
+558500.13,7,0,China,Branch,High,Cash Withdrawal,NPR
+847270.36,13,0,Nepal,Branch,Low,Transfer,NPR
+402851.3,14,0,Pakistan,Branch,Low,Deposit,NPR
+222187.83,22,0,Russia,Online,High,Transfer,NPR
+927926.94,12,0,Pakistan,Branch,High,Transfer,NPR
+490576.04,23,1,Russia,Online,Medium,Deposit,NPR
+699907.93,0,1,Russia,ATM,High,Transfer,NPR
+41072.88,3,1,Russia,Branch,High,Transfer,NPR
+574492.15,9,0,Nepal,Branch,High,Cash Withdrawal,NPR
+255034.31,11,0,Pakistan,Online,High,Deposit,NPR
+403197.65,8,0,Pakistan,Branch,Low,Deposit,NPR
+96848.59,6,0,China,ATM,High,Cash Withdrawal,NPR
+345040.91,6,0,India,Online,High,Transfer,NPR
+15363.73,6,0,Pakistan,Branch,Low,Deposit,NPR
+998172.37,15,0,India,ATM,Low,Transfer,NPR
+868691.7,12,0,India,ATM,High,Cash Withdrawal,NPR
+492339.74,4,1,Nepal,Online,High,Deposit,NPR
+366299.39,12,0,Russia,Branch,Low,Deposit,NPR
+647686.1,4,1,India,Online,High,Deposit,NPR
+11771.75,9,0,China,Online,High,Cash Withdrawal,NPR
+389018.83,19,0,Nepal,ATM,Low,Deposit,NPR
+354682.46,0,1,USA,Branch,High,Cash Withdrawal,NPR
+427872.22,17,0,Nepal,Online,Low,Cash Withdrawal,NPR
+736247.79,2,1,Nepal,Online,High,Deposit,NPR
+545883.5,8,0,Pakistan,Online,High,Transfer,NPR
+532221.35,0,1,India,ATM,Low,Deposit,NPR
+218024.37,14,0,China,Online,High,Deposit,NPR
+413864.94,23,1,Nepal,Online,High,Transfer,NPR
+824443.82,11,0,Nepal,Branch,High,Transfer,NPR
+119886.99,2,1,India,Branch,High,Deposit,NPR
+181589.27,7,0,Nepal,Online,High,Deposit,NPR
+183032.32,11,0,USA,ATM,High,Cash Withdrawal,NPR
+846566.62,5,0,Pakistan,Online,High,Transfer,NPR
+903418.3,6,0,China,Online,Low,Deposit,NPR
+462948.74,2,1,Nepal,Branch,Low,Deposit,NPR
+831416.01,0,1,Nepal,Branch,High,Deposit,NPR
+77232.89,11,0,Nepal,Branch,Low,Cash Withdrawal,NPR
+395167.89,14,0,Pakistan,Online,High,Cash Withdrawal,NPR
+403968.14,0,1,India,ATM,Low,Transfer,NPR
+3394.62,11,0,India,ATM,Low,Transfer,NPR
+515168.43,5,0,India,Branch,High,Cash Withdrawal,NPR
+107961.53,14,0,India,Online,High,Deposit,NPR
+580657.9,8,0,India,Branch,High,Deposit,NPR
+887989.94,23,1,China,ATM,Low,Deposit,NPR
+644639.23,7,0,India,Online,High,Deposit,NPR
+43339.61,11,0,Russia,ATM,High,Cash Withdrawal,NPR
+203718.68,13,0,China,ATM,High,Deposit,NPR
+733214.7,14,0,Nepal,Branch,High,Cash Withdrawal,NPR
+911588.88,4,1,China,Online,Low,Deposit,NPR
+750319.9,16,0,Nepal,Online,High,Deposit,NPR
+226501.07,22,0,Nepal,ATM,High,Transfer,NPR
+96982.23,23,1,USA,Branch,High,Deposit,NPR
+521240.41,3,1,China,ATM,Low,Deposit,NPR
+17860.82,8,0,Pakistan,Online,High,Deposit,NPR
+51719.08,16,0,Russia,Online,High,Transfer,NPR
+755075.95,16,0,USA,ATM,High,Cash Withdrawal,NPR
+163067.12,9,0,Nepal,ATM,High,Transfer,NPR
+888460.84,11,0,Nepal,Online,Low,Transfer,NPR
+4537.19,2,1,India,Branch,High,Cash Withdrawal,NPR
+908348.89,14,0,USA,Online,Low,Deposit,NPR
+875787.33,21,0,China,ATM,High,Transfer,NPR
+949520.54,1,1,Nepal,ATM,Low,Transfer,NPR
