@@ -1,0 +1,43 @@
+{
+  "model_name": "RandomForestClassifier",
+  "accuracy": 0.8543314682616245,
+  "roc_auc": 0.8748325921475827,
+  "pr_auc": 0.4158480070455238,
+  "best_threshold": 0.5622437665842691,
+  "n_features": 8,
+  "n_samples": 25912,
+  "trained_at": "2025-08-10 15:14",
+  "model_path": "C:\\Users\\NISHU PRADHAN\\Documents\\Cybersecurity-project-and-AI - Copy\\models\\individual_aml_model_20250810_151444.pkl",
+  "threshold": 0.5622437665842691,
+  "train_features": [
+    "Amount",
+    "Hour",
+    "LateNightTxn",
+    "Country",
+    "Channel",
+    "RiskRating",
+    "TransactionType",
+    "Currency"
+  ],
+  "best_params": {
+    "model__n_estimators": 300,
+    "model__min_samples_split": 8,
+    "model__min_samples_leaf": 3,
+    "model__max_features": "sqrt",
+    "model__max_depth": null
+  },
+  "train_samples": 20729,
+  "test_samples": 5183,
+  "time": "20250810_151444",
+  "classification_report": "              precision    recall  f1-score   support\n\n           0      0.937     0.895     0.916      4588\n           1      0.400     0.539     0.460       595\n\n    accuracy                          0.854      5183\n   macro avg      0.669     0.717     0.688      5183\nweighted avg      0.876     0.854     0.863      5183\n",
+  "confusion_matrix": [
+    [
+      4107,
+      481
+    ],
+    [
+      274,
+      321
+    ]
+  ]
+}
